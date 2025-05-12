@@ -30,3 +30,11 @@ class Solution:
                             q.append((ni, nj))
         
         return obstacles[m-1][n-1]
+
+if __name__ == "__main__":
+    sol = Solution()
+    
+    print(sol.minimumObstacles([[0,1,1],[1,1,0],[1,1,0]]))  # 2
+    print(sol.minimumObstacles([[0,1,0,0,0],[0,1,0,1,0],[0,0,0,1,0]]))  # 0
+    print(sol.minimumObstacles([[0,0,0],[0,0,0],[0,0,0]]))  # 0
+    print(sol.minimumObstacles([[0,1,1],[1,1,1],[1,1,0]]))  # 3
