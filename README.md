@@ -1,13 +1,4 @@
-
-Temas
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
-
-# Codility
+# Questões LeetCode
 
 **Conteúdo da Disciplina**: Grafos 2
 
