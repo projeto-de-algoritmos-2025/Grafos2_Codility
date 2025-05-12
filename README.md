@@ -16,8 +16,9 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 ## Screenshots
 ### [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/)
 
+
 ![1976_1](assets/1976.1.png)
-<br>
+
 
 ![1976_2](assets/1976.2.png)
 
@@ -25,24 +26,26 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 
 
 ![2290_1](assets/2290.1.png)
-<br>
+
 
 ![2290_2](assets/2290.2.png)
 
 ### [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
 
+
 ![1489_1](/assets/1489.1.png)
-<br>
+
 
 ![1489_2](/assets/1489.2.png)
 
 ### [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
 
+
 ![1514_1](/assets/1514.1.png)
-<br>
+
 
 ![1514_2](/assets/1514.2.png)
-<br>
+
 
 ![1514_3](/assets/1514.3.png)
 
