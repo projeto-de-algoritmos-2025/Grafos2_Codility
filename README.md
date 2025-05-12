@@ -16,14 +16,14 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 ## Screenshots
 ### [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/)
 
-![1976](assets/1976.1.png)
-![1976](assets/1976.2.png)
+![1976_1](assets/1976.1.png)
+![1976_2](assets/1976.2.png)
 
 ### [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/)
 
 
-![2290](assets/2290.1.png)
-![2290](assets/2290.2.png)
+![2290_1](assets/2290.1.png)
+![2290_2](assets/2290.2.png)
 
 ### [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
 
