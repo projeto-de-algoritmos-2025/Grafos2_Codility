@@ -21,6 +21,10 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 
 ### [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/)
 
+
+![2290](assets/2290.1.png)
+![2290](assets/2290.2.png)
+
 ## Instalação 
 **Linguagem**: Python<br>
 1. Navegue até a pasta do problema desejado. Ex: `cd 2290`
@@ -31,7 +35,7 @@ python3 resolucao.py
 ```
 
 ## Uso 
-Apenas execute o Algoritmo
+Apenas execute o código
 
 ## Vídeo 
 
