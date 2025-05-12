@@ -10,21 +10,27 @@
 
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O objetivo deste repositório é conter as soluções de problemas nível médio e hard de programação do LeetCode. 
+
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/)
+
+### [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+1. Navegue até a pasta do problema desejado. Ex: `cd 2290`
+2. Rode o algoritmo com o comando:
+
+```
+python3 resolucao.py
+```
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Apenas execute o Algoritmo
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Vídeo 
 
 
 
