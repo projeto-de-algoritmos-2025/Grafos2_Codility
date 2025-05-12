@@ -16,6 +16,9 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 ## Screenshots
 ### [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/)
 
+![1976](assets/1976.1.png)
+![1976](assets/1976.2.png)
+
 ### [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/)
 
 ## Instalação 
