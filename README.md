@@ -25,6 +25,17 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 ![2290](assets/2290.1.png)
 ![2290](assets/2290.2.png)
 
+### [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
+
+![1489_1](/assets/1489.1.png)
+![1489_2](/assets/1489.2.png)
+
+### [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
+
+![1514_1](/assets/1514.1.png)
+![1514_2](/assets/1514.2.png)
+![1514_3](/assets/1514.3.png)
+
 ## Instalação 
 **Linguagem**: Python<br>
 1. Navegue até a pasta do problema desejado. Ex: `cd 2290`
