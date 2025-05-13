@@ -28,6 +28,7 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 ### [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
 
 ![1489_1](/assets/1489.1.png)
+
 ![1489_2](/assets/1489.2.png)
 
 ### [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
