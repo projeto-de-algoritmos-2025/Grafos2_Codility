@@ -51,6 +51,7 @@ Apenas execute o código
 
 ## Vídeo 
 
+[![Video](https://img.youtube.com/vi/NeRQf54G6_Q/0.jpg)](https://youtu.be/NeRQf54G6_Q)
 
 
 
